@@ -6,7 +6,7 @@ Description
 
 [Deployed Site](https://rogan8r.github.io/01-Refactor/)
 
-![Screenshot](./assets/images/lead-generation.png)
+![Screenshot](C:\Users\rogan\development\bootcamp\homework\01-Refactor\assets\images\horiseon_screenshot.png)
 
 
 1. Description of your app
